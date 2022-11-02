@@ -1,1 +1,1 @@
-Nothing
+The index page which get displayed 
